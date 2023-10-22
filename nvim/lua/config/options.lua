@@ -31,6 +31,7 @@ op.hidden = true
 op.errorbells = false
 op.backup = false
 op.undodir = vim.fn.expand("~/.vim/undodir")
+op.swapfile = false
 op.undofile = true
 op.backspace = "indent,eol,start"
 op.splitright = true
