@@ -1,1 +1,3 @@
-require ('config')
+require("bojan.core")
+require("bojan.core.keymaps")
+require("bojan.lazy")
